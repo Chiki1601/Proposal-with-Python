@@ -1,7 +1,7 @@
 import turtle
 
 print("                            ############🤩LOVES ME OR NOT🙁################\n")
-print("                                                -create by srilakivarma")
+print("                                                -create by Pooja Patel")
 smp='yes'
 smp2='no'
 girl_name=input("Enter the name:\n\t")
